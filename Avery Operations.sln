@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avery Operations", "Avery Operations\Avery Operations.csproj", "{FDE686AB-E724-4B1D-8EFE-31B3996C9B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE686AB-E724-4B1D-8EFE-31B3996C9B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE686AB-E724-4B1D-8EFE-31B3996C9B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE686AB-E724-4B1D-8EFE-31B3996C9B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE686AB-E724-4B1D-8EFE-31B3996C9B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F201E965-C1DD-4E02-BD62-FE8FD75B1665}
+	EndGlobalSection
+EndGlobal
